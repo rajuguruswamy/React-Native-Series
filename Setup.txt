@@ -12,6 +12,10 @@ vscode
 vscode-extension -> React Native Tools,Expo Tools
 
 
+git remote add origin https://github.com/rajuguruswamy/React-Native-Series.git
+git pull origin main  # or whatever the branch is
+
+
 Create New Project: lession01
 =================== 
 npx create-expo-app@latest
