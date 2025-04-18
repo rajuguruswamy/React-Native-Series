@@ -1,0 +1,28 @@
+https://reactnative.dev/
+https://expo.dev/
+https://github.com/gitdagray/react-native-course
+
+
+tools : 
+=======
+node -v
+npm -v
+git -v
+vscode
+vscode-extension -> React Native Tools,Expo Tools
+
+
+Create New Project: lession01
+=================== 
+npx create-expo-app@latest
+cd lession01
+- npm run android
+- npm run ios 
+- npm run web
+npm install
+Start a development server:
+
+npx expo start
+
+
+
